@@ -1,0 +1,15 @@
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.csproj.AssemblyReference.cache
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.AssemblyInfoInputs.cache
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.AssemblyInfo.cs
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.csproj.CoreCompileInputs.cache
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\bin\Debug\net6.0\проверка.exe
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\bin\Debug\net6.0\проверка.deps.json
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\bin\Debug\net6.0\проверка.runtimeconfig.json
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\bin\Debug\net6.0\проверка.dll
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\bin\Debug\net6.0\проверка.pdb
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.dll
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\refint\проверка.dll
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.pdb
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\проверка.genruntimeconfig.cache
+C:\Users\chalo\Desktop\ДЗ C#2.02.23\проверка\obj\Debug\net6.0\ref\проверка.dll
